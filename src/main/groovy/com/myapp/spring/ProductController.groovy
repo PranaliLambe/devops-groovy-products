@@ -14,6 +14,8 @@ import org.springframework.web.bind.annotation.RestController
 // http://IP:PORT/products
 //Pranali Lambe
 
+////Case study 
+
 @RestController
 @RequestMapping("products")
 class ProductController {
