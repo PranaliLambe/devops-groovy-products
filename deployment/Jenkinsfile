@@ -63,6 +63,6 @@ def buildInfo = rtMaven.run pom: 'pom.xml', goals: 'install'
 server.publishBuildInfo buildInfo
 }
 
-	s
+	
    }
 }
